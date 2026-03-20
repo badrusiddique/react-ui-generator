@@ -56,3 +56,5 @@ The core flow:
 ## Code Standards
 
 **Comments:** Add comments only for complex code where logic isn't self-evident. Be conservative — prefer clear variable/function names over verbose comments. Focus on explaining *why*, not *what*.
+
+**Git commits:** Never include a `Co-Authored-By` trailer in commit messages.
